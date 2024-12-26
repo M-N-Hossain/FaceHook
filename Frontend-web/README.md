@@ -42,7 +42,7 @@ ___
 -**Like/Comment**: Interact with posts by liking or commenting.
 -**Edit/Delete Post**: Manage your own posts.
 
-___
+_
 
 ### 🧑‍💻 Profile Management 
 - View and update personal information.
