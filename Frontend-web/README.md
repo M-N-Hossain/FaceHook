@@ -33,6 +33,8 @@ npm run dev
 
 -**Login**: Authenticate to access protected resources.
 
+___
+
 ##📝 Posts
 
 -**View Posts**: Browse all posts.
@@ -40,9 +42,13 @@ npm run dev
 -**Like/Comment**: Interact with posts by liking or commenting.
 -**Edit/Delete Post**: Manage your own posts.
 
+___
+
 ### 🧑‍💻 Profile Management 
 - View and update personal information.
 - Interact with your own posts
+
+___
 
 ### 🌐 API Integration
 
@@ -54,16 +60,20 @@ The frontend communicates with the backend via the following endpoints:
   
 API calls are handled using Axios for clean and efficient request management.
 
+___
+
 ### 🎨 Styling
 This project uses CSS Modules and SCSS for component-specific styles, ensuring modular and maintainable CSS.
+
+___
 
 ### 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-### 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+___
+
 
 ### ✨ Acknowledgments
 Built with ❤️ using React and TailwindCSS.
-Backend: FaceHook Server.
+Backend: [FaceHook Server](https://github.com/M-N-Hossain/FaceHook/tree/master/Backend-server)
 
